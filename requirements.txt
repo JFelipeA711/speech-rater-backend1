@@ -5,6 +5,4 @@ transformers
 flask
 werkzeug
 numpy
-re
-os
 openai
