@@ -1,0 +1,10 @@
+torch
+librosa
+language-tool-python
+transformers
+flask
+werkzeug
+numpy
+re
+os
+openai
